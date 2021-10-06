@@ -1,5 +1,8 @@
 # poke-memories
 
+
+## MainScreen:
+<img width="500" alt="3" src="../poke-memories/src/assets/images/rs/MainScreen.png">
 ## Project setup
 ```
 yarn install
