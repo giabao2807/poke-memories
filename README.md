@@ -3,13 +3,13 @@
 # play game with: https://giabaone.netlify.app/
 
 ## MainScreen:
-<img width="500" alt="3" src="../poke-memories/src/assets/images/rs/MainScreen.png">
+<img width="500" src="../poke-memories/src/assets/images/rs/MainScreen.png">
 
 ## InteractScreen:
-<img width="500" alt="3" src="../poke-memories/src/assets/images/rs/InteractSreen.png">
+<img width="500"  src="../poke-memories/src/assets/images/rs/InteractSreen.png">
 
 ## ResultScreen:
-<img width="500" alt="3" src="../poke-memories/src/assets/images/rs/ResultScreen.png">
+<img width="500" src="../poke-memories/src/assets/images/rs/ResultScreen.png">
 
 
 ## Project setup
