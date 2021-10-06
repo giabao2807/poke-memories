@@ -1,5 +1,7 @@
 # poke-memories
 
+# play game with: https://giabaone.netlify.app/
+
 ## Project setup
 ```
 yarn install
